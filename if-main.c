@@ -5,7 +5,6 @@ int main(void)
 	int userage;
 
 	printf("What is your age? ");
-
 	scanf("%d", &userage);
 
 	if (userage >= 18)
